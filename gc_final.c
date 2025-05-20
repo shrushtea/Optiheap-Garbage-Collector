@@ -78,7 +78,7 @@ int main() {
                 return 0;
                 
             default:
-                printf("Invalid choice. Please enter something between 1-4 only.\n");
+                printf("You're not funny. Enter something between 1-4 only.\n");
                 break;
         }
     }
